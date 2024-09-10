@@ -21,8 +21,8 @@ print(sum/len(score))
 
 
 ##### 답안 #####
-n = int(input())
-list = list(map(int,input().split()))
-max = max(list)
-sum = sum(list)
-print(sum*100/max/n) #수식을 변환하여 로직을 간단히 하기
+# n = int(input())
+# list = list(map(int,input().split()))
+# max = max(list)
+# sum = sum(list)
+# print(sum*100/max/n) #수식을 변환하여 로직을 간단히 하기
