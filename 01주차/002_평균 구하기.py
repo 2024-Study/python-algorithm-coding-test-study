@@ -1,0 +1,5 @@
+n = input()
+num_list = list(map(int, input().split()))
+max_num = max(num_list)
+avg = sum(num_list) * 100 / max_num / int(n)
+print(avg)
