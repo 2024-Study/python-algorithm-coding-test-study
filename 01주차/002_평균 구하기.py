@@ -1,15 +1,13 @@
-n = int(input())
-scores = list(map(int, input().split()))
-max = max(scores)
+# n = int(input())
+# scores = list(map(int, input().split()))
+# max = max(scores)
 # sum = 0
-sum = sum(scores)
 
 # for i in scores:
 #     sum += i / max * 100
     
 # print (sum / n)
 
-print(sum * 100 / max / n)
 
 '''
 - 파이썬에는 최댓값 내장함수 존재
@@ -20,3 +18,10 @@ print(sum * 100 / max / n)
 - sum 도 내장 함수 존재!
 
 '''
+
+n = int(input())
+scores = list(map(int, input().split()))
+max = max(scores)
+sum = sum(scores)
+
+print(sum * 100 / max / n)

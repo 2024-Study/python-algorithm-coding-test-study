@@ -16,8 +16,8 @@ c = list(map(int, input().split()))
 p = [0]* 4
 
 # 변수 초기화 s, s+m-1
-s = 0
-count = 0
+s = 0  # 부분문자열 시작점
+count = 0  
 
 # 추가되는 문자 처리 함수
 def addDna(ch):

@@ -63,5 +63,5 @@ for i in range(m):
         res += (c[i] * (c[i]-1)) // 2
             
 print(res)
-print(c)
+
     
