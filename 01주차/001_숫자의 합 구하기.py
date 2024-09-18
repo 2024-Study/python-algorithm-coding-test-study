@@ -33,9 +33,9 @@ print(res)
 
     
  list에 대해 for문 돌리기
-- 1. 기본 for문 사용
-- 2. range()와 len() 사용한 접근
-- 3. enumerate()를 사용한 인덱스와 값 동시 접근
-- 4. 리스트 내포 (List compression)
-- 5. zip()을 사용한 여러 리스트를 동시에 반복
+    - 1. 기본 for문 사용
+    - 2. range()와 len() 사용한 접근
+    - 3. enumerate()를 사용한 인덱스와 값 동시 접근
+    - 4. 리스트 내포 (List compression)
+    - 5. zip()을 사용한 여러 리스트를 동시에 반복
 """
