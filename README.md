@@ -4,10 +4,10 @@
 
 ## 👧 스터디원 소개
 
-| 이여진 | 황채린 | 정지은 |
-| :---: | :---: |:---:|
-| <img src="https://avatars.githubusercontent.com/u/113425533?v=4" width="125" height="125"/> | <img src="https://avatars.githubusercontent.com/u/87927105?v=4" width="125" height="125"/> | <img src="https://avatars.githubusercontent.com/u/113423425?v=4" width="125" height="125"/> |
-| [@yeojinLee1020](https://github.com/yeojinLee1020) | [@crHwang0822](https://github.com/crHwang0822) | [@stopsilver123](https://github.com/stopsilver123) | 
+| 이여진 | 황채린 | 정지은 | 문서영 |
+| :---: | :---: |:---:|:---:|
+| <img src="https://avatars.githubusercontent.com/u/113425533?v=4" width="125" height="125"/> | <img src="https://avatars.githubusercontent.com/u/87927105?v=4" width="125" height="125"/> | <img src="https://avatars.githubusercontent.com/u/113423425?v=4" width="125" height="125"/> | <img src="https://avatars.githubusercontent.com/u/105192908?v=4" width="125" height="125"/> |
+| [@yeojinLee1020](https://github.com/yeojinLee1020) | [@crHwang0822](https://github.com/crHwang0822) | [@stopsilver123](https://github.com/stopsilver123) | [@seona-moon](https://github.com/seona-moon) |
 
 
 
